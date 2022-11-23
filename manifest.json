@@ -1,11 +1,11 @@
 {
-    "name": "test",
-    "short_name": "test",
+    "name": "オオアオ（泣）",
+    "short_name": "ｵｵｱｵ",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "オオアオ（泣）",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
